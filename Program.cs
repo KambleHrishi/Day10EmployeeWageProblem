@@ -1,4 +1,5 @@
-﻿namespace Day10EmployeeWageProblem
+﻿using System.Collections.Generic;
+namespace Day10EmployeeWageProblem
 {
     public interface IComputeEmpWage
     {
